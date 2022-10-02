@@ -1,6 +1,8 @@
 # SwitchPower
 手搓120W开关电源，OB2263方案
 
+视频演示：https://www.bilibili.com/video/BV1nP4y1o7SK
+
 IC供电绕组0.45mm漆包线，0.45mm漆包线1股，6圈
 
 主输入绕组0.9mm漆包线，0.45mm漆包线2股，40圈
